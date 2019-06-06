@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Owin.Security.MicrosoftAccount.fr</id>
+    <version>2.0.0</version>
+    <title>Ressources en français pour Microsoft Owin Security Microsoft Account</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/aspnetcomponent_rtw_FRA.htm</licenseUrl>
+    <projectUrl>http://katanaproject.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Ce package contient les assemblys satellites en français pour Microsoft Owin Security Microsoft Account</description>
+    <summary>Ressources en français pour le package Microsoft.Owin.Security.MicrosoftAccount.</summary>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <language>fr</language>
+    <tags>OWIN</tags>
+    <dependencies>
+      <dependency id="Microsoft.Owin.Security.MicrosoftAccount" version="[2.0.0]" />
+    </dependencies>
+  </metadata>
+</package>

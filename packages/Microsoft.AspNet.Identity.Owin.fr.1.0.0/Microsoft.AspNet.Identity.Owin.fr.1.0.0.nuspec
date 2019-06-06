@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.AspNet.Identity.Owin.fr</id>
+    <version>1.0.0</version>
+    <title>Ressources en français pour Microsoft ASP.NET Identity Owin</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/aspnetcomponent_rtw_FRA.htm</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Ce package contient les assemblys satellites en français pour les bibliothèques ASP.NET Identity Owin.</description>
+    <summary>Ressources en français pour le package Microsoft.AspNet.Identity.Owin</summary>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <language>fr</language>
+    <tags>Identity Membership</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.Identity.Owin" version="[1.0.0]" />
+    </dependencies>
+  </metadata>
+</package>

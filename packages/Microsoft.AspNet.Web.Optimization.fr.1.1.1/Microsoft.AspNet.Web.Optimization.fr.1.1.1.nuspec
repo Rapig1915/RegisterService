@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.AspNet.Web.Optimization.fr</id>
+    <version>1.1.1</version>
+    <title>Ressources en français pour Microsoft ASP.NET Web Optimization</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/aspnetcomponent_rtw_lang3.htm</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Ce package inclut les assemblys satellites en français pour ASP.NET Web Optimization.</description>
+    <summary>Ressources en français pour le package Microsoft.AspNet.Web.Optimization</summary>
+    <language>fr</language>
+    <tags>Microsoft AspNet optimization bundling minification</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.Web.Optimization" version="[1.1.1]" />
+    </dependencies>
+  </metadata>
+</package>

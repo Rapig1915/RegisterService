@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.AspNet.WebPages.fr</id>
+    <version>3.0.0</version>
+    <title>Ressources en français pour Microsoft ASP.NET Web Pages</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/aspnetcomponent_rtw_FRA.htm</licenseUrl>
+    <projectUrl>http://www.asp.net/web-pages</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Ce package inclut les assemblys satellites Français pour ASP.NET Web Pages 3.</description>
+    <summary>Ressources Français pour le package Microsoft.AspNet.WebPages</summary>
+    <copyright>© Microsoft Corporation. Tous droits réservés.</copyright>
+    <language>fr</language>
+    <tags>Microsoft AspNet WebPages AspNetWebPages</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.WebPages" version="[3.0.0]" />
+    </dependencies>
+  </metadata>
+</package>

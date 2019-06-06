@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Owin.Host.SystemWeb.fr</id>
+    <version>2.0.0</version>
+    <title>Ressources en français de l’hôte Microsoft ASP.NET pour les applications Web OWIN</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/aspnetcomponent_rtw_FRA.htm</licenseUrl>
+    <projectUrl>http://katanaproject.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Ce package contient les assemblys satellites en français pour l’hôte ASP.NET des applications Web OWIN.</description>
+    <summary>Ressources en français pour le package Microsoft.Owin.Host.SystemWeb.</summary>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <language>fr</language>
+    <tags>microsoft owin aspnet katana</tags>
+    <dependencies>
+      <dependency id="Microsoft.Owin.Host.SystemWeb" version="[2.0.0]" />
+    </dependencies>
+  </metadata>
+</package>

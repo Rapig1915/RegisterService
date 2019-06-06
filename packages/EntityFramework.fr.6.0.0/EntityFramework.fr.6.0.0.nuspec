@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>EntityFramework.fr</id>
+    <version>6.0.0</version>
+    <title>Ressources du français pour Entity Framework</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://go.microsoft.com/fwlink/?LinkId=316838&amp;clcid=0x40c</licenseUrl>
+    <projectUrl>http://go.microsoft.com/fwlink/?LinkId=316837&amp;clcid=0x40c</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Ce package contient les assemblys sattellites du français pour Entity Framework</description>
+    <summary>Ressources du français pour le package d'Entity Framework</summary>
+    <language>fr</language>
+    <dependencies>
+      <dependency id="EntityFramework" version="[6.0.0]" />
+    </dependencies>
+  </metadata>
+</package>
